@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>integration_karban</id>
+    <name>Karban Integration</name>
+    <description>Link Karban to Nextcloud</description>
+    <version>1.0.0</version>
+    <licence>agpl</licence>
+    <author>Bahador Nazari Fard</author>
+    <namespace>Karban</namespace>
+    <category>integration</category>
+    <dependencies>
+        <nextcloud min-version="32" max-version="32" />
+    </dependencies>
+</info>
